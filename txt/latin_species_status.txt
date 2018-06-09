@@ -1,0 +1,900 @@
+Cygnus olor
+Cygnus columbianus
+Cygnus cygnus
+Anser fabalis
+Anser brachyrhynchus
+Anser erythropus
+Branta canadensis I
+Tadorna tadorna
+Anas penelope
+Mareca strepera
+Anas crecca
+Anas platyrhynchos
+Anas acuta
+Anas querquedula
+Anas clypeata
+Aythya ferina
+Aythya fuligula
+Aythya marila
+Aythya affinis
+Somateria mollissima
+Somateria spectabilis
+Clangula hyemalis
+Melanitta nigra
+Melanitta fusca
+Bucephala clangula
+Mergellus albellus
+Bonasa bonasia
+Lagopus mutus
+Tetrao tetrix
+Lagopus lagopus
+Tetrao urogallus
+Perdix perdix
+Coturnix coturnix
+Phasianus colchicus I 
+Gavia stellata
+Gavia arctica
+Podiceps cristatus
+Podiceps grisegena
+Podiceps auritus
+Podiceps nigricollis
+Phalacrocorax carbo
+Ardea cinerea
+Pernis apivorus
+Milvus migrans
+Haliaeetus albicilla
+Circus aeruginosus
+Circus cyaneus
+Circus pygargus
+Accipiter gentilis
+Accipiter nisus
+Buteo buteo
+Buteo lagopus
+Aquila clanga
+Aquila chrysaetos
+Pandion haliaetus
+Falco tinnunculus
+Falco columbarius
+Falco subbuteo
+Falco rusticolus
+Falco peregrinus
+Rallus aquaticus
+Porzana porzana
+Crex crex
+Fulica atra
+Grus grus
+Haematopus ostralegus
+Charadrius dubius
+Charadrius hiaticula
+Eudromias morinellus
+Pluvialis apricaria
+Vanellus vanellus
+Calidris temminckii
+Calidris maritima
+Calidris alpina
+Limicola falcinellus
+Philomachus pugnax
+Lymnocryptes minimus
+Gallinago gallinago
+Scolopax rusticola
+Limosa limosa
+Limosa lapponica
+Numenius phaeopus
+Numenius arquata
+Tringa erythropus
+Tringa totanus
+Tringa nebularia
+Tringa ochropus
+Tringa glareola
+Xenus cinereus
+Actitis hypoleucos
+Arenaria interpres
+Phalaropus lobatus
+Stercorarius parasiticus
+Stercorarius longicaudus
+Larus minutus/Hydrocoloeus minutus
+Larus ridibundus/Chroicocephalus ridibundus
+Larus canus
+Larus fuscus
+Larus hyperboreus
+Larus marinus
+Rissa tridactyla
+Sterna caspia
+Sterna hirundo
+Sterna paradisaea
+Sterna albifrons
+Chlidonias niger
+Uria aalge
+Uria lomvia
+Alca torda
+Cepphus grylle
+Columba oenas
+Columba palumbus
+Streptopelia decaocto
+Cuculus canorus
+Bubo bubo
+Nyctea scandiaca/Bubo scandiacus
+Surnia ulula
+Glaucidium passerinum
+Strix aluco
+Strix uralensis
+Strix nebulosa
+Asio otus
+Asio flammeus
+Aegolius funereus
+Caprimulgus europaeus
+Apus apus
+Alcedo atthis
+Jynx torquilla
+Picus canus
+Picus viridis
+Dryocopus martius
+Dendrocopos major
+Dendrocopos leucotos
+Dendrocopos minor/Dryobates minor
+Picoides tridactylus
+Lullula arborea
+Alauda arvensis
+Riparia riparia
+Hirundo rustica
+Delichon urbicum
+Anthus trivialis
+Anthus pratensis
+Anthus cervinus
+Anthus petrosus
+Motacilla flava
+Motacilla cinerea
+Motacilla alba
+Bombycilla garrulus
+Cinclus cinclus
+Troglodytes troglodytes
+Prunella modularis
+Turdus merula
+Turdus pilaris
+Turdus philomelos
+Turdus iliacus
+Turdus viscivorus
+Locustella naevia
+Locustella fluviatilis
+Acrocephalus schoenobaenus
+Acrocephalus scirpaceus
+Acrocephalus palustris
+Acrocephalus dumetorum
+Acrocephalus arundinaceus
+Hippolais icterina
+Phylloscopus trochiloides
+Phylloscopus borealis
+Phylloscopus sibilatrix
+Phylloscopus collybita
+Phylloscopus trochilus
+Sylvia atricapilla
+Sylvia borin
+Sylvia nisoria
+Sylvia curruca
+Sylvia communis
+Regulus regulus
+Erithacus rubecula
+Luscinia luscinia
+Luscinia svecica
+Phoenicurus ochruros
+Phoenicurus phoenicurus
+Saxicola rubetra
+Oenanthe oenanthe
+Muscicapa striata
+Ficedula parva
+Ficedula hypoleuca
+Aegithalos caudatus
+Poecile montanus
+Poecile cinctus
+Lophophanes cristatus
+Periparus ater
+Cyanistes caeruleus
+Parus major
+Certhia familiaris
+Oriolus oriolus
+Lanius collurio
+Lanius excubitor
+Garrulus glandarius
+Perisoreus infaustus
+Pica pica
+Nucifraga caryocatactes
+Corvus monedula
+Corvus frugilegus
+Corvus corax
+Sturnus vulgaris
+Passer domesticus
+Passer montanus
+Fringilla coelebs
+Fringilla montifringilla
+Coccothraustes coccothraustes
+Cygnus olor
+Cygnus columbianus
+Cygnus cygnus
+Anser fabalis
+Anser brachyrhynchus
+Anser erythropus
+Branta canadensis I
+Tadorna tadorna
+Anas penelope
+Mareca strepera
+Anas crecca
+Anas platyrhynchos
+Anas acuta
+Anas querquedula
+Anas clypeata
+Aythya ferina
+Aythya fuligula
+Aythya marila
+Aythya affinis
+Somateria mollissima
+Somateria spectabilis
+Clangula hyemalis
+Melanitta nigra
+Melanitta fusca
+Bucephala clangula
+Mergellus albellus
+Bonasa bonasia
+Lagopus mutus
+Tetrao tetrix
+Lagopus lagopus
+Tetrao urogallus
+Perdix perdix
+Coturnix coturnix
+Phasianus colchicus I 
+Gavia stellata
+Gavia arctica
+Podiceps cristatus
+Podiceps grisegena
+Podiceps auritus
+Podiceps nigricollis
+Phalacrocorax carbo
+Ardea cinerea
+Pernis apivorus
+Milvus migrans
+Haliaeetus albicilla
+Circus aeruginosus
+Circus cyaneus
+Circus pygargus
+Accipiter gentilis
+Accipiter nisus
+Buteo buteo
+Buteo lagopus
+Aquila clanga
+Aquila chrysaetos
+Pandion haliaetus
+Falco tinnunculus
+Falco columbarius
+Falco subbuteo
+Falco rusticolus
+Falco peregrinus
+Rallus aquaticus
+Porzana porzana
+Crex crex
+Fulica atra
+Grus grus
+Haematopus ostralegus
+Charadrius dubius
+Charadrius hiaticula
+Eudromias morinellus
+Pluvialis apricaria
+Vanellus vanellus
+Calidris temminckii
+Calidris maritima
+Calidris alpina
+Limicola falcinellus
+Philomachus pugnax
+Lymnocryptes minimus
+Gallinago gallinago
+Scolopax rusticola
+Limosa limosa
+Limosa lapponica
+Numenius phaeopus
+Numenius arquata
+Tringa erythropus
+Tringa totanus
+Tringa nebularia
+Tringa ochropus
+Tringa glareola
+Xenus cinereus
+Actitis hypoleucos
+Arenaria interpres
+Phalaropus lobatus
+Stercorarius parasiticus
+Stercorarius longicaudus
+Larus minutus/Hydrocoloeus minutus
+Larus ridibundus/Chroicocephalus ridibundus
+Larus canus
+Larus fuscus
+Larus hyperboreus
+Larus marinus
+Rissa tridactyla
+Sterna caspia
+Sterna hirundo
+Sterna paradisaea
+Sterna albifrons
+Chlidonias niger
+Uria aalge
+Uria lomvia
+Alca torda
+Cepphus grylle
+Columba oenas
+Columba palumbus
+Streptopelia decaocto
+Cuculus canorus
+Bubo bubo
+Nyctea scandiaca/Bubo scandiacus
+Surnia ulula
+Glaucidium passerinum
+Strix aluco
+Strix uralensis
+Strix nebulosa
+Asio otus
+Asio flammeus
+Aegolius funereus
+Caprimulgus europaeus
+Apus apus
+Alcedo atthis
+Jynx torquilla
+Picus canus
+Picus viridis
+Dryocopus martius
+Dendrocopos major
+Dendrocopos leucotos
+Dendrocopos minor/Dryobates minor
+Picoides tridactylus
+Lullula arborea
+Alauda arvensis
+Riparia riparia
+Hirundo rustica
+Delichon urbicum
+Anthus trivialis
+Anthus pratensis
+Anthus cervinus
+Anthus petrosus
+Motacilla flava
+Motacilla cinerea
+Motacilla alba
+Bombycilla garrulus
+Cinclus cinclus
+Troglodytes troglodytes
+Prunella modularis
+Turdus merula
+Turdus pilaris
+Turdus philomelos
+Turdus iliacus
+Turdus viscivorus
+Locustella naevia
+Locustella fluviatilis
+Acrocephalus schoenobaenus
+Acrocephalus scirpaceus
+Acrocephalus palustris
+Acrocephalus dumetorum
+Acrocephalus arundinaceus
+Hippolais icterina
+Phylloscopus trochiloides
+Phylloscopus borealis
+Phylloscopus sibilatrix
+Phylloscopus collybita
+Phylloscopus trochilus
+Sylvia atricapilla
+Sylvia borin
+Sylvia nisoria
+Sylvia curruca
+Sylvia communis
+Regulus regulus
+Erithacus rubecula
+Luscinia luscinia
+Luscinia svecica
+Phoenicurus ochruros
+Phoenicurus phoenicurus
+Saxicola rubetra
+Oenanthe oenanthe
+Muscicapa striata
+Ficedula parva
+Ficedula hypoleuca
+Aegithalos caudatus
+Poecile montanus
+Poecile cinctus
+Lophophanes cristatus
+Periparus ater
+Cyanistes caeruleus
+Parus major
+Certhia familiaris
+Oriolus oriolus
+Lanius collurio
+Lanius excubitor
+Garrulus glandarius
+Perisoreus infaustus
+Pica pica
+Nucifraga caryocatactes
+Corvus monedula
+Corvus frugilegus
+Corvus corax
+Sturnus vulgaris
+Passer domesticus
+Passer montanus
+Fringilla coelebs
+Fringilla montifringilla
+Coccothraustes coccothraustes
+Anser albifrons
+Anser anser
+Anser caerulescens
+Branta leucopsis
+Branta bernicla
+Branta ruficollis
+Tadorna ferruginea
+Aix galericulata I
+Mareca americana R
+Anas carolinensis R
+Anas rubribes R
+Spatula discors R
+Netta rufina R
+Aythya collaris R
+Aythya nyroca R
+Polysticta stelleri
+Histrionicus histrionicus R
+Melanitta perspicillata R
+Mergus serrator
+Mergus merganser
+Oxyura jamaicensis I R
+Gavia immer R
+Gavia adamsii
+Tachybaptus ruficollis
+Fulmarus glacialis R
+Ardenna griseus R
+Puffinus puffinus R
+Hydrobates pelagicus R
+Oceanodroma leucorhoa R
+Oceanodroma castro R
+Morus bassanus R
+Phalacrocorax aristotelis R
+Pelecanus onocrotalus H R
+Botaurus stellaris
+Ixobrychus minutus R
+Nycticorax nycticorax R
+Bubulcus ibis R
+Ardeola ralloides R
+Egretta garzetta R
+Egretta alba
+Ardea purpurea R
+Plegadis falcinellus R
+Platalea leucorodia R
+Ciconia nigra
+Ciconia ciconia
+Milvus milvus R
+Haliaeetus leucoryphus H R
+Neophron percnopterus R
+Gyps fulvus R
+Circaetus gallicus R
+Circus macrourus R
+Buteo rufinus R
+Clanga pomarina R
+Aquila nipalensis R
+Aquila heliaca R
+Hieraaetus pennatus R
+Falco naumanni R
+Falco vespertinus
+Falco eleonorae R
+Falco cherrug R
+Porzana parva
+Porzana pusilla R
+Gallinula chloropus
+Porphyrio alleni R
+Grus virgo R
+Tetrax tetrax R
+Chlamydotis macqueenii H R
+Otis tarda H R
+Himantopus himantopus R
+Recurvirostra avosetta
+Burhinus oedicnemus R
+Cursorius cursor R
+Glareola pratincola R
+Glareola nordmanni R
+Charadrius alexandrinus R
+Charadrius leschenaultii R
+Charadrius asiaticus
+Charadrius veredus R
+Pluvialis fulva R
+Pluvialis squatarola
+Vanellus gregarius R
+Vanellus leucurus R
+Calidris canutus
+Calidris alba
+Calidris ruficollis R
+Calidris minuta
+Calidris minutilla H R
+Calidris fuscicollis R
+Calidris bairdii R
+Calidris melanotos R
+Calidris acuminata R
+Calidris ferruginea
+Calidris himantopus R
+Calidris subruficollis R
+Gallinago media
+Limnodromus scolopaceus R
+Numenius minutus R
+Tringa stagnatilis
+Tringa flavipes R
+Tringa semipalmata R
+Actitis macularius R
+Phalaropus tricolor R
+Phalaropus fulicarius R
+Stercorarius pomarinus
+Stercorarius skua R
+Ichthyaetus melanocephalus R
+Leucophaeus atricilla R
+Leucophaeus pipixcan R
+Xema sabini R
+Chroicocephalus genei R
+Larus argentatus
+Larus cachinnans R
+Larus michahellis R
+Larus glaucoides R
+Rhodostethia rosea R
+Pagophila eburnea R
+Gelochelidon nilotica R
+Thalasseus sandvicensis
+Chlidonias hybrida R
+Chlidonias leucopterus R
+Alle alle
+Fratercula arctica R
+Syrrhaptes paradoxus R
+Columba livia I
+Streptopelia turtur
+Streptopelia orientalis R
+Clamator glandarius H R
+Tyto alba R
+Athene noctua R
+Hirundapus caudacutus R
+Apus pallidus R
+Apus melba R
+Apus caffer R
+Merops persicus R
+Merops apiaster
+Coracias garrulus
+Upupa epops
+Melanocorypha calandra R
+Melanocorypha bimaculata R
+Melanocorypha yeltoniensis R
+Calandrella brachydactyla R
+Alaudala rufescens R
+Galerida cristata R
+Alauda leucoptera R
+Eremophila alpestris
+Ptyonoprogne rupestris R
+Hirundo daurica R
+Anthus richardi
+Anthus godlewskii R
+Anthus campestris R
+Anthus hodgsoni R
+Anthus gustavi R
+Motacilla citreola
+Prunella montanella R
+Prunella atrogularis R
+Prunella collaris R
+Zoothera dauma R
+Catharus ustulatus R
+Turdus torquatus
+Turdus obscurus R
+Turdus naumanni R
+Turdus ruficollis R
+Locustella lanceolata R
+Locustella luscinioides R
+Acrocephalus paludicola R
+Acrocephalus agricola R
+Iduna aedon R
+Iduna pallida R
+Iduna caligata R
+Iduna rama R
+Phylloscopus coronatus R
+Phylloscopus proregulus
+Phylloscopus inornatus
+Phylloscopus humei R
+Phylloscopus schwarzi R
+Phylloscopus fuscatus R
+Phylloscopus bonelli R
+Phylloscopus orientalis R
+Sylvia nana R
+Sylvia undata R
+Sylvia cantillans R
+Sylvia melanocephala R
+Sylvia ruppeli R
+Regulus ignicapilla R
+Cercotrichas galactotes R
+Luscinia megarhynchos R
+Calliope calliope R
+Tarsiger cyanurus
+Saxicola torquatus R
+Oenanthe isabellina R
+Oenanthe pleschanka R
+Oenanthe hispanica R
+Oenanthe deserti R
+Monticola saxatilis R
+Monticola solitarius R
+Ficedula albicollis R
+Panurus biarmicus
+Parus palustris R
+Parus cyanus R
+Sitta europaea
+Remiz pendulinus
+Lanius isabellinus R
+Lanius minor
+Lanius meridionalis R
+Lanius senator R
+Lanius nubicus R
+Corvus dauuricus H R
+Corvus cornix
+Pastor roseus
+Passer hispaniolensis R
+Serinus serinus
+Chloris chloris
+Carduelis carduelis
+Spinus spinus
+Linaria cannabina
+Linaria flavirostris
+Acanthis flammea
+Acanthis hornemanni
+Loxia leucoptera
+Loxia curvirostra
+Loxia pytyopsittacus
+Bucanetes githagineus
+Carpodacus erythrinus
+Pinicola enucleator
+Pyrrhula pyrrhula
+Calcarius lapponicus
+Plectrophenax nivalis
+Zonotrichia albicollis R
+Emberiza spodocephala R
+Emberiza leucocephalos R
+Emberiza citrinella
+Emberiza buchanani
+Emberiza hortulana
+Emberiza caesia R
+Emberiza rustica
+Emberiza pusilla
+Emberiza rutila R
+Emberiza aureola
+Emberiza schoeniclus
+Emberiza melanocephala R
+Emberiza calandra R
+Anser albifrons
+Anser anser
+Anser caerulescens
+Branta leucopsis
+Branta bernicla
+Branta ruficollis
+Tadorna ferruginea
+Aix galericulata I
+Mareca americana R
+Anas carolinensis R
+Anas rubribes R
+Spatula discors R
+Netta rufina R
+Aythya collaris R
+Aythya nyroca R
+Polysticta stelleri
+Histrionicus histrionicus R
+Melanitta perspicillata R
+Mergus serrator
+Mergus merganser
+Oxyura jamaicensis I R
+Gavia immer R
+Gavia adamsii
+Tachybaptus ruficollis
+Fulmarus glacialis R
+Ardenna griseus R
+Puffinus puffinus R
+Hydrobates pelagicus R
+Oceanodroma leucorhoa R
+Oceanodroma castro R
+Morus bassanus R
+Phalacrocorax aristotelis R
+Pelecanus onocrotalus H R
+Botaurus stellaris
+Ixobrychus minutus R
+Nycticorax nycticorax R
+Bubulcus ibis R
+Ardeola ralloides R
+Egretta garzetta R
+Egretta alba
+Ardea purpurea R
+Plegadis falcinellus R
+Platalea leucorodia R
+Ciconia nigra
+Ciconia ciconia
+Milvus milvus R
+Haliaeetus leucoryphus H R
+Neophron percnopterus R
+Gyps fulvus R
+Circaetus gallicus R
+Circus macrourus R
+Buteo rufinus R
+Clanga pomarina R
+Aquila nipalensis R
+Aquila heliaca R
+Hieraaetus pennatus R
+Falco naumanni R
+Falco vespertinus
+Falco eleonorae R
+Falco cherrug R
+Porzana parva
+Porzana pusilla R
+Gallinula chloropus
+Porphyrio alleni R
+Grus virgo R
+Tetrax tetrax R
+Chlamydotis macqueenii H R
+Otis tarda H R
+Himantopus himantopus R
+Recurvirostra avosetta
+Burhinus oedicnemus R
+Cursorius cursor R
+Glareola pratincola R
+Glareola nordmanni R
+Charadrius alexandrinus R
+Charadrius leschenaultii R
+Charadrius asiaticus
+Charadrius veredus R
+Pluvialis fulva R
+Pluvialis squatarola
+Vanellus gregarius R
+Vanellus leucurus R
+Calidris canutus
+Calidris alba
+Calidris ruficollis R
+Calidris minuta
+Calidris minutilla H R
+Calidris fuscicollis R
+Calidris bairdii R
+Calidris melanotos R
+Calidris acuminata R
+Calidris ferruginea
+Calidris himantopus R
+Calidris subruficollis R
+Gallinago media
+Limnodromus scolopaceus R
+Numenius minutus R
+Tringa stagnatilis
+Tringa flavipes R
+Tringa semipalmata R
+Actitis macularius R
+Phalaropus tricolor R
+Phalaropus fulicarius R
+Stercorarius pomarinus
+Stercorarius skua R
+Ichthyaetus melanocephalus R
+Leucophaeus atricilla R
+Leucophaeus pipixcan R
+Xema sabini R
+Chroicocephalus genei R
+Larus argentatus
+Larus cachinnans R
+Larus michahellis R
+Larus glaucoides R
+Rhodostethia rosea R
+Pagophila eburnea R
+Gelochelidon nilotica R
+Thalasseus sandvicensis
+Chlidonias hybrida R
+Chlidonias leucopterus R
+Alle alle
+Fratercula arctica R
+Syrrhaptes paradoxus R
+Columba livia I
+Streptopelia turtur
+Streptopelia orientalis R
+Clamator glandarius H R
+Tyto alba R
+Athene noctua R
+Hirundapus caudacutus R
+Apus pallidus R
+Apus melba R
+Apus caffer R
+Merops persicus R
+Merops apiaster
+Coracias garrulus
+Upupa epops
+Melanocorypha calandra R
+Melanocorypha bimaculata R
+Melanocorypha yeltoniensis R
+Calandrella brachydactyla R
+Alaudala rufescens R
+Galerida cristata R
+Alauda leucoptera R
+Eremophila alpestris
+Ptyonoprogne rupestris R
+Hirundo daurica R
+Anthus richardi
+Anthus godlewskii R
+Anthus campestris R
+Anthus hodgsoni R
+Anthus gustavi R
+Motacilla citreola
+Prunella montanella R
+Prunella atrogularis R
+Prunella collaris R
+Zoothera dauma R
+Catharus ustulatus R
+Turdus torquatus
+Turdus obscurus R
+Turdus naumanni R
+Turdus ruficollis R
+Locustella lanceolata R
+Locustella luscinioides R
+Acrocephalus paludicola R
+Acrocephalus agricola R
+Iduna aedon R
+Iduna pallida R
+Iduna caligata R
+Iduna rama R
+Phylloscopus coronatus R
+Phylloscopus proregulus
+Phylloscopus inornatus
+Phylloscopus humei R
+Phylloscopus schwarzi R
+Phylloscopus fuscatus R
+Phylloscopus bonelli R
+Phylloscopus orientalis R
+Sylvia nana R
+Sylvia undata R
+Sylvia cantillans R
+Sylvia melanocephala R
+Sylvia ruppeli R
+Regulus ignicapilla R
+Cercotrichas galactotes R
+Luscinia megarhynchos R
+Calliope calliope R
+Tarsiger cyanurus
+Saxicola torquatus R
+Oenanthe isabellina R
+Oenanthe pleschanka R
+Oenanthe hispanica R
+Oenanthe deserti R
+Monticola saxatilis R
+Monticola solitarius R
+Ficedula albicollis R
+Panurus biarmicus
+Parus palustris R
+Parus cyanus R
+Sitta europaea
+Remiz pendulinus
+Lanius isabellinus R
+Lanius minor
+Lanius meridionalis R
+Lanius senator R
+Lanius nubicus R
+Corvus dauuricus H R
+Corvus cornix
+Pastor roseus
+Passer hispaniolensis R
+Serinus serinus
+Chloris chloris
+Carduelis carduelis
+Spinus spinus
+Linaria cannabina
+Linaria flavirostris
+Acanthis flammea
+Acanthis hornemanni
+Loxia leucoptera
+Loxia curvirostra
+Loxia pytyopsittacus
+Bucanetes githagineus
+Carpodacus erythrinus
+Pinicola enucleator
+Pyrrhula pyrrhula
+Calcarius lapponicus
+Plectrophenax nivalis
+Zonotrichia albicollis R
+Emberiza spodocephala R
+Emberiza leucocephalos R
+Emberiza citrinella
+Emberiza buchanani
+Emberiza hortulana
+Emberiza caesia R
+Emberiza rustica
+Emberiza pusilla
+Emberiza rutila R
+Emberiza aureola
+Emberiza schoeniclus
+Emberiza melanocephala R
+Emberiza calandra R
