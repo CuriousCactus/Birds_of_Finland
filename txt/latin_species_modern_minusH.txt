@@ -4,7 +4,7 @@ Cygnus cygnus
 Anser fabalis
 Anser brachyrhynchus
 Anser erythropus
-Branta canadensis I
+Branta canadensis
 Tadorna tadorna
 Anas penelope
 Mareca strepera
@@ -31,7 +31,7 @@ Lagopus lagopus
 Tetrao urogallus
 Perdix perdix
 Coturnix coturnix
-Phasianus colchicus I 
+Phasianus colchicus 
 Gavia stellata
 Gavia arctica
 Podiceps cristatus
@@ -92,8 +92,8 @@ Arenaria interpres
 Phalaropus lobatus
 Stercorarius parasiticus
 Stercorarius longicaudus
-Larus minutus/Hydrocoloeus minutus
-Larus ridibundus/Chroicocephalus ridibundus
+Hydrocoloeus minutus
+Chroicocephalus ridibundus
 Larus canus
 Larus fuscus
 Larus hyperboreus
@@ -113,7 +113,7 @@ Columba palumbus
 Streptopelia decaocto
 Cuculus canorus
 Bubo bubo
-Nyctea scandiaca/Bubo scandiacus
+Bubo scandiacus
 Surnia ulula
 Glaucidium passerinum
 Strix aluco
@@ -131,7 +131,7 @@ Picus viridis
 Dryocopus martius
 Dendrocopos major
 Dendrocopos leucotos
-Dendrocopos minor/Dryobates minor
+Dryobates minor
 Picoides tridactylus
 Lullula arborea
 Alauda arvensis
@@ -214,209 +214,202 @@ Branta leucopsis
 Branta bernicla
 Branta ruficollis
 Tadorna ferruginea
-Aix galericulata I
-Mareca americana R
-Anas carolinensis R
-Anas rubribes R
-Spatula discors R
-Netta rufina R
-Aythya collaris R
-Aythya nyroca R
+Aix galericulata
+Mareca americana
+Anas carolinensis
+Anas rubribes
+Spatula discors
+Netta rufina
+Aythya collaris
+Aythya nyroca
 Polysticta stelleri
-Histrionicus histrionicus R
-Melanitta perspicillata R
+Histrionicus histrionicus
+Melanitta perspicillata
 Mergus serrator
 Mergus merganser
-Oxyura jamaicensis I R
-Gavia immer R
+Oxyura jamaicensis
+Gavia immer
 Gavia adamsii
 Tachybaptus ruficollis
-Fulmarus glacialis R
-Ardenna griseus R
-Puffinus puffinus R
-Hydrobates pelagicus R
-Oceanodroma leucorhoa R
-Oceanodroma castro R
-Morus bassanus R
-Phalacrocorax aristotelis R
-Pelecanus onocrotalus H R
+Fulmarus glacialis
+Ardenna griseus
+Puffinus puffinus
+Hydrobates pelagicus
+Oceanodroma leucorhoa
+Oceanodroma castro
+Morus bassanus
+Phalacrocorax aristotelis
 Botaurus stellaris
-Ixobrychus minutus R
-Nycticorax nycticorax R
-Bubulcus ibis R
-Ardeola ralloides R
-Egretta garzetta R
+Ixobrychus minutus
+Nycticorax nycticorax
+Bubulcus ibis
+Ardeola ralloides
+Egretta garzetta
 Egretta alba
-Ardea purpurea R
-Plegadis falcinellus R
-Platalea leucorodia R
+Ardea purpurea
+Plegadis falcinellus
+Platalea leucorodia
 Ciconia nigra
 Ciconia ciconia
-Milvus milvus R
-Haliaeetus leucoryphus H R
-Neophron percnopterus R
-Gyps fulvus R
-Circaetus gallicus R
-Circus macrourus R
-Buteo rufinus R
-Clanga pomarina R
-Aquila nipalensis R
-Aquila heliaca R
-Hieraaetus pennatus R
-Falco naumanni R
+Milvus milvus
+Neophron percnopterus
+Gyps fulvus
+Circaetus gallicus
+Circus macrourus
+Buteo rufinus
+Clanga pomarina
+Aquila nipalensis
+Aquila heliaca
+Hieraaetus pennatus
+Falco naumanni
 Falco vespertinus
-Falco eleonorae R
-Falco cherrug R
+Falco eleonorae
+Falco cherrug
 Porzana parva
-Porzana pusilla R
+Porzana pusilla
 Gallinula chloropus
-Porphyrio alleni R
-Grus virgo R
-Tetrax tetrax R
-Chlamydotis macqueenii H R
-Otis tarda H R
-Himantopus himantopus R
+Porphyrio alleni
+Grus virgo
+Tetrax tetrax
+Himantopus himantopus
 Recurvirostra avosetta
-Burhinus oedicnemus R
-Cursorius cursor R
-Glareola pratincola R
-Glareola nordmanni R
-Charadrius alexandrinus R
-Charadrius leschenaultii R
+Burhinus oedicnemus
+Cursorius cursor
+Glareola pratincola
+Glareola nordmanni
+Charadrius alexandrinus
+Charadrius leschenaultii
 Charadrius asiaticus
-Charadrius veredus R
-Pluvialis fulva R
+Charadrius veredus
+Pluvialis fulva
 Pluvialis squatarola
-Vanellus gregarius R
-Vanellus leucurus R
+Vanellus gregarius
+Vanellus leucurus
 Calidris canutus
 Calidris alba
-Calidris ruficollis R
+Calidris ruficollis
 Calidris minuta
-Calidris minutilla H R
-Calidris fuscicollis R
-Calidris bairdii R
-Calidris melanotos R
-Calidris acuminata R
+Calidris fuscicollis
+Calidris bairdii
+Calidris melanotos
+Calidris acuminata
 Calidris ferruginea
-Calidris himantopus R
-Calidris subruficollis R
+Calidris himantopus
+Calidris subruficollis
 Gallinago media
-Limnodromus scolopaceus R
-Numenius minutus R
+Limnodromus scolopaceus
+Numenius minutus
 Tringa stagnatilis
-Tringa flavipes R
-Tringa semipalmata R
-Actitis macularius R
-Phalaropus tricolor R
-Phalaropus fulicarius R
+Tringa flavipes
+Tringa semipalmata
+Actitis macularius
+Phalaropus tricolor
+Phalaropus fulicarius
 Stercorarius pomarinus
-Stercorarius skua R
-Ichthyaetus melanocephalus R
-Leucophaeus atricilla R
-Leucophaeus pipixcan R
-Xema sabini R
-Chroicocephalus genei R
+Stercorarius skua
+Ichthyaetus melanocephalus
+Leucophaeus atricilla
+Leucophaeus pipixcan
+Xema sabini
+Chroicocephalus genei
 Larus argentatus
-Larus cachinnans R
-Larus michahellis R
-Larus glaucoides R
-Rhodostethia rosea R
-Pagophila eburnea R
-Gelochelidon nilotica R
+Larus cachinnans
+Larus michahellis
+Larus glaucoides
+Rhodostethia rosea
+Pagophila eburnea
+Gelochelidon nilotica
 Thalasseus sandvicensis
-Chlidonias hybrida R
-Chlidonias leucopterus R
+Chlidonias hybrida
+Chlidonias leucopterus
 Alle alle
-Fratercula arctica R
-Syrrhaptes paradoxus R
-Columba livia I
+Fratercula arctica
+Syrrhaptes paradoxus
+Columba livia
 Streptopelia turtur
-Streptopelia orientalis R
-Clamator glandarius H R
-Tyto alba R
-Athene noctua R
-Hirundapus caudacutus R
-Apus pallidus R
-Apus melba R
-Apus caffer R
-Merops persicus R
+Streptopelia orientalis
+Tyto alba
+Athene noctua
+Hirundapus caudacutus
+Apus pallidus
+Apus melba
+Apus caffer
+Merops persicus
 Merops apiaster
 Coracias garrulus
 Upupa epops
-Melanocorypha calandra R
-Melanocorypha bimaculata R
-Melanocorypha yeltoniensis R
-Calandrella brachydactyla R
-Alaudala rufescens R
-Galerida cristata R
-Alauda leucoptera R
+Melanocorypha calandra
+Melanocorypha bimaculata
+Melanocorypha yeltoniensis
+Calandrella brachydactyla
+Alaudala rufescens
+Galerida cristata
+Alauda leucoptera
 Eremophila alpestris
-Ptyonoprogne rupestris R
-Hirundo daurica R
+Ptyonoprogne rupestris
+Hirundo daurica
 Anthus richardi
-Anthus godlewskii R
-Anthus campestris R
-Anthus hodgsoni R
-Anthus gustavi R
+Anthus godlewskii
+Anthus campestris
+Anthus hodgsoni
+Anthus gustavi
 Motacilla citreola
-Prunella montanella R
-Prunella atrogularis R
-Prunella collaris R
-Zoothera dauma R
-Catharus ustulatus R
+Prunella montanella
+Prunella atrogularis
+Prunella collaris
+Zoothera dauma
+Catharus ustulatus
 Turdus torquatus
-Turdus obscurus R
-Turdus naumanni R
-Turdus ruficollis R
-Locustella lanceolata R
-Locustella luscinioides R
-Acrocephalus paludicola R
-Acrocephalus agricola R
-Iduna aedon R
-Iduna pallida R
-Iduna caligata R
-Iduna rama R
-Phylloscopus coronatus R
+Turdus obscurus
+Turdus naumanni
+Turdus ruficollis
+Locustella lanceolata
+Locustella luscinioides
+Acrocephalus paludicola
+Acrocephalus agricola
+Iduna aedon
+Iduna pallida
+Iduna caligata
+Iduna rama
+Phylloscopus coronatus
 Phylloscopus proregulus
 Phylloscopus inornatus
-Phylloscopus humei R
-Phylloscopus schwarzi R
-Phylloscopus fuscatus R
-Phylloscopus bonelli R
-Phylloscopus orientalis R
-Sylvia nana R
-Sylvia undata R
-Sylvia cantillans R
-Sylvia melanocephala R
-Sylvia ruppeli R
-Regulus ignicapilla R
-Cercotrichas galactotes R
-Luscinia megarhynchos R
-Calliope calliope R
+Phylloscopus humei
+Phylloscopus schwarzi
+Phylloscopus fuscatus
+Phylloscopus bonelli
+Phylloscopus orientalis
+Sylvia nana
+Sylvia undata
+Sylvia cantillans
+Sylvia melanocephala
+Sylvia ruppeli
+Regulus ignicapilla
+Cercotrichas galactotes
+Luscinia megarhynchos
+Calliope calliope
 Tarsiger cyanurus
-Saxicola torquatus R
-Oenanthe isabellina R
-Oenanthe pleschanka R
-Oenanthe hispanica R
-Oenanthe deserti R
-Monticola saxatilis R
-Monticola solitarius R
-Ficedula albicollis R
+Saxicola torquatus
+Oenanthe isabellina
+Oenanthe pleschanka
+Oenanthe hispanica
+Oenanthe deserti
+Monticola saxatilis
+Monticola solitarius
+Ficedula albicollis
 Panurus biarmicus
-Parus palustris R
-Parus cyanus R
+Parus palustris
+Parus cyanus
 Sitta europaea
 Remiz pendulinus
-Lanius isabellinus R
+Lanius isabellinus
 Lanius minor
-Lanius meridionalis R
-Lanius senator R
-Lanius nubicus R
-Corvus dauuricus H R
+Lanius meridionalis
+Lanius senator
+Lanius nubicus
 Corvus cornix
 Pastor roseus
-Passer hispaniolensis R
+Passer hispaniolensis
 Serinus serinus
 Chloris chloris
 Carduelis carduelis
@@ -434,17 +427,17 @@ Pinicola enucleator
 Pyrrhula pyrrhula
 Calcarius lapponicus
 Plectrophenax nivalis
-Zonotrichia albicollis R
-Emberiza spodocephala R
-Emberiza leucocephalos R
+Zonotrichia albicollis
+Emberiza spodocephala
+Emberiza leucocephalos
 Emberiza citrinella
 Emberiza buchanani
 Emberiza hortulana
-Emberiza caesia R
+Emberiza caesia
 Emberiza rustica
 Emberiza pusilla
-Emberiza rutila R
+Emberiza rutila
 Emberiza aureola
 Emberiza schoeniclus
-Emberiza melanocephala R
-Emberiza calandra R
+Emberiza melanocephala
+Emberiza calandra
